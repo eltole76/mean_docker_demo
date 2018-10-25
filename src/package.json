@@ -1,0 +1,15 @@
+{
+  "name": "meanapi",
+  "version": "1.0.0",
+  "description": "web Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "el_tole",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.4"
+  }
+}
