@@ -10,6 +10,6 @@
   "author": "el_tole",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.3.4"
+    "mongoose": "^5.7.5"
   }
 }
